@@ -1,4 +1,4 @@
-# Comparison of excution time for extracting syllables Bash and Perl
+# Comparison of excution time for extracting syllables in Bash and Perl
 
 Tests were done on Dell precision 3570 laptop with Ubuntu 22.04, 12
 core 12th Gen Intel(R) Core(TM) i5-1235U cpu.
